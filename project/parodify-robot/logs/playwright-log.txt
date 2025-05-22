@@ -1,0 +1,57 @@
+{"level":30,"time":"2025-05-22T19:53:36.958Z","pid":55484,"hostname":"Winter","msg":"Listening on 127.0.0.1:54193"}
+(node:55484) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-05-22T19:53:37.278Z","pid":55484,"hostname":"Winter","msg":"Start of node method initializeExtension"}
+{"level":30,"time":"2025-05-22T19:53:37.278Z","pid":55484,"hostname":"Winter","msg":"Initializing extension: C:\\Users\\Winter\\Documents\\RobotFrameworkPlaywright\\project\\parodify-robot\\resources\\module.js"}
+{"level":30,"time":"2025-05-22T19:53:37.281Z","pid":55484,"hostname":"Winter","msg":"End of node method initializeExtension"}
+{"level":30,"time":"2025-05-22T19:53:37.280Z","pid":55484,"hostname":"Winter","msg":"Adding 1 keywords from JS Extension"}
+{"level":30,"time":"2025-05-22T19:53:37.328Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:37.328Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:37.330Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:37.330Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:37.334Z","pid":55484,"hostname":"Winter","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-05-22T19:53:37.528Z","pid":55484,"hostname":"Winter","msg":"Adding browser to stack: chromium, version: 136.0.7103.25"}
+{"level":30,"time":"2025-05-22T19:53:37.529Z","pid":55484,"hostname":"Winter","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-05-22T19:53:37.528Z","pid":55484,"hostname":"Winter","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-05-22T19:53:37.535Z","pid":55484,"hostname":"Winter","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-05-22T19:53:37.535Z","pid":55484,"hostname":"Winter","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-05-22T19:53:37.548Z","pid":55484,"hostname":"Winter","msg":"Changed active context"}
+{"level":30,"time":"2025-05-22T19:53:37.737Z","pid":55484,"hostname":"Winter","msg":"Video path: undefined"}
+{"level":30,"time":"2025-05-22T19:53:37.737Z","pid":55484,"hostname":"Winter","msg":"Changed active page"}
+{"level":30,"time":"2025-05-22T19:53:37.764Z","pid":55484,"hostname":"Winter","msg":"End of node method newPage"}
+{"level":30,"time":"2025-05-22T19:53:37.776Z","pid":55484,"hostname":"Winter","msg":"Start of node method goTo"}
+{"level":30,"time":"2025-05-22T19:53:39.202Z","pid":55484,"hostname":"Winter","msg":"End of node method goTo"}
+{"level":30,"time":"2025-05-22T19:53:39.207Z","pid":55484,"hostname":"Winter","msg":"Start of node method getText"}
+{"level":30,"time":"2025-05-22T19:53:39.208Z","pid":55484,"hostname":"Winter","msg":"Strict mode is enabled, find Locator with css=.logged-user in page."}
+{"level":30,"time":"2025-05-22T19:53:39.252Z","pid":55484,"hostname":"Winter","msg":"Retrieved text for element css=.logged-user containing Fernando Papito"}
+{"level":30,"time":"2025-05-22T19:53:39.252Z","pid":55484,"hostname":"Winter","msg":"End of node method getText"}
+{"level":30,"time":"2025-05-22T19:53:39.261Z","pid":55484,"hostname":"Winter","msg":"Start of node method click"}
+{"level":30,"time":"2025-05-22T19:53:39.261Z","pid":55484,"hostname":"Winter","msg":"Strict mode is enabled, find Locator with xpath=//div[contains (@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2025-05-22T19:53:39.290Z","pid":55484,"hostname":"Winter","msg":"End of node method click"}
+{"level":30,"time":"2025-05-22T19:53:39.295Z","pid":55484,"hostname":"Winter","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-22T19:53:39.295Z","pid":55484,"hostname":"Winter","msg":"Strict mode is enabled, find Locator with xpath=//div[contains (@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"pause\")] in page."}
+{"level":30,"time":"2025-05-22T19:53:39.392Z","pid":55484,"hostname":"Winter","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-22T19:53:39.397Z","pid":55484,"hostname":"Winter","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-05-22T19:53:39.397Z","pid":55484,"hostname":"Winter","msg":"Strict mode is enabled, find Locator with xpath=//div[contains (@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2025-05-22T19:53:44.308Z","pid":55484,"hostname":"Winter","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-05-22T19:53:44.312Z","pid":55484,"hostname":"Winter","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-05-22T19:53:44.313Z","pid":55484,"hostname":"Winter","Take screenshot with options: ":{"path":"C:\\Users\\Winter\\Documents\\RobotFrameworkPlaywright\\project\\parodify-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-05-22T19:53:44.403Z","pid":55484,"hostname":"Winter","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-05-22T19:53:44.410Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.412Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.413Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.415Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.416Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.417Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.419Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.420Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.422Z","pid":55484,"hostname":"Winter","msg":"Changed active context"}
+{"level":30,"time":"2025-05-22T19:53:44.422Z","pid":55484,"hostname":"Winter","msg":"Changing current active page: page=011e712a-6174-4cde-80a0-cc65a156ee31"}
+{"level":30,"time":"2025-05-22T19:53:44.422Z","pid":55484,"hostname":"Winter","msg":"Changed active page"}
+{"level":30,"time":"2025-05-22T19:53:44.425Z","pid":55484,"hostname":"Winter","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-05-22T19:53:44.443Z","pid":55484,"hostname":"Winter","msg":"Removed page=aaff845b-4e57-4ff1-b8a3-35736433beaf from context=1cad1434-0fe8-4ab7-8828-8e3b540cd49f page stack"}
+{"level":30,"time":"2025-05-22T19:53:44.475Z","pid":55484,"hostname":"Winter","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-05-22T19:53:44.480Z","pid":55484,"hostname":"Winter","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.480Z","pid":55484,"hostname":"Winter","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-05-22T19:53:44.530Z","pid":55484,"hostname":"Winter","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-05-22T19:53:44.635Z","pid":55484,"hostname":"Winter","msg":"End of node method closeAllBrowsers"}
