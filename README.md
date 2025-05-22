@@ -9,6 +9,3 @@ Este repositório contém uma suíte de testes automatizados desenvolvida com **
 - [Playwright](https://playwright.dev/)
 - [Node.js](https://nodejs.org/)
 - [Python 3.8+](https://www.python.org/)
-
-## 📦 Estrutura do Projeto
-
